@@ -1,10 +1,10 @@
 
-import Routing from './Routing';
+import Router from './Router';
 
 function App(){
   return(
     <div>
-      <Routing />
+      <Router />
     </div>
     
   )
